@@ -1,0 +1,8 @@
+{
+  "functions":
+      [
+        {"name": "linear", "classCall": "LinearActivation()"},
+        {"name": "relu", "classCall": "ReluActivation()"},
+        {"name": "sigmoid","classCall": "SigmoidActivation()"}
+      ]
+}

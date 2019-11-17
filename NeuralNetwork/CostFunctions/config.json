@@ -1,0 +1,8 @@
+{
+  "functions":
+      [
+        {"name": "mean-squared-error", "classCall": "MSE()"},
+        {"name": "mse", "classCall": "MSE()"},
+        {"name": "cross-entropy","classCall": "CrossEntropy()"}
+      ]
+}
